@@ -186,7 +186,7 @@
     
     .fa-flickr.square,
     .fa-twitter.square,
-    .fa-google-plus.square,
+    .fa-instagram.square,
     .fa-linkedin.square,
     .fa-github.square {
       background-color: grey;
@@ -195,7 +195,7 @@
     
     .fa-flickr.square:hover,
     .fa-twitter.square:hover,
-    .fa-google-plus.square:hover,
+    .fa-instagram.square:hover,
     .fa-linkedin.square:hover,
     .fa-github.square:hover {
       background-color: darkgrey;
