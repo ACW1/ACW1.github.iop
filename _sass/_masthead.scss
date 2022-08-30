@@ -26,9 +26,6 @@
   margin-bottom: 0;
   /* padding: 0 2rem; */
   text-transform: uppercase;
-  @media (min-width: 1439px) {
-      font-size: 1.1em; 
-    }
   @media (min-width: $on-tablet) {
     font-size: $band-capital;
     @media /* Ipad portrait en landscape */
